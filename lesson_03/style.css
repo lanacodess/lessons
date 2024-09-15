@@ -1,0 +1,42 @@
+@import url(reset.css);
+
+*{
+  color: rgb(6, 6, 69);
+}
+
+blockquote{
+  color: rgb(2, 57, 97);
+}
+
+a.link{
+  color: rgb(0, 132, 226);
+}
+
+.subtitle + p{
+  color: rgb(71, 86, 171);
+}
+
+.subtitle{
+  color: rgb(110, 111, 5);
+}
+
+#pyrohiv-museum p{
+  color: green;
+}
+
+[class="text"]{
+  color: rgb(8, 8, 62);
+}
+
+#sofiyska-square * {
+  color: rgba(37, 144, 245, 0.692);
+}
+
+#secret-courtyard-horyva-18-10 > p{
+  color: brown;
+}
+
+#seek-mini-sculptures h2 ~ p{
+  color: blueviolet;
+}
+
