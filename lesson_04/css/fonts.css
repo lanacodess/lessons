@@ -5,10 +5,12 @@
   font-family: "fira-code";
   src: url('/fonts/FiraCode-Regular.woff2');
   font-weight: 400;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "fira-code";
   src: url('/fonts/firacode-Medium.woff2');
   font-weight: 500;
+  font-display: swap;
 }
