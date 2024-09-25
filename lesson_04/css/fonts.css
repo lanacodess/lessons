@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Work+Sans:regular,600&display=swap");
+@import url("https://fonts.googleapis.com/css?family=DM+Sans:regular,700&display=swap");
+
+@font-face {
+  font-family: "fira-code";
+  src: url('/fonts/FiraCode-Regular.woff2');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "fira-code";
+  src: url('/fonts/firacode-Medium.woff2');
+  font-weight: 500;
+}

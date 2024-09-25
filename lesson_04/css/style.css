@@ -1,0 +1,89 @@
+@import url('fonts.css');
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+  margin: 30px;
+}
+
+h2{
+  text-shadow: 3px 3px 9px rgba(0,0,0,0.4);
+  text-align: right;
+}
+
+/*! article 1 */
+
+.professional{
+  font-family: "Work Sans", sans-serif;
+}
+
+.professional__heading{
+  font-weight: 600;
+  font-size: 38px;
+  line-height: 1.32; /* 50/38 */
+  color: #132238;
+}
+
+.professional__text{
+  font-size: 18px;
+  line-height: 1.33; /* 24/18 */
+  color: #556070;
+  word-spacing: 10px;
+}
+
+.professional__highlight{
+  text-transform: uppercase;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+/*! article 2 */
+
+.about{
+  font-family: "DM Sans", sans-serif;
+}
+
+.about__heading{
+  color: #1E1B39;
+  font-weight: 700;
+  font-size: 88px;
+  line-height: 1.08; /* 95/88 */
+
+}
+
+.about__text{
+  color: #474464;
+  font-size: 24px;
+  line-height: 1.75; /* 42/24 */
+}
+
+/*! article 3 */
+
+.product{
+  font-family: 'fira-code', monospace;
+}
+
+.product__heading{
+  font-size: 50px;
+  font-weight: 500;
+  line-height: 1.32; /* 66/50 */
+  letter-spacing: 1px;
+  color: #091133;
+}
+
+.product__text{
+  font-size: 18px;
+  line-height: 1.67; /* 30/18 */
+  color: #505F98;
+}
+
+
